@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZJ+ryGWUHE9UgHEgKf5ZBhvJPj0PELjifatO7lL5U1qUy2lY/XN6xV2rFRo8efFL8XPm8LPePYiMdv7k1L69w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajn_\\source\\repos\\DotNetCoreApiPOC\\DotNetCoreApiPOC\\DotNetCoreApiPOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajn_\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
