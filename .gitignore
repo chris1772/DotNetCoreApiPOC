@@ -7,3 +7,7 @@
 /DotNetCoreApiPOC/obj/Release/netcoreapp3.1/DotNetCoreApiPOC.assets.cache
 /DotNetCoreApiPOC/obj/Release/netcoreapp3.1/DotNetCoreApiPOC.AssemblyInfoInputs.cache
 /.vs/DotNetCoreApiPOC/config/applicationhost.config
+/.vs/VSWorkspaceState.json
+/DotNetCoreApiPOC/bin/Debug/netcoreapp3.1/DotNetCoreApiPOC.runtimeconfig.dev.json
+/DotNetCoreApiPOC/bin/Debug/netcoreapp3.1/DotNetCoreApiPOC.runtimeconfig.json
+/DotNetCoreApiPOC/obj/Debug/netcoreapp3.1/DotNetCoreApiPOC.genruntimeconfig.cache

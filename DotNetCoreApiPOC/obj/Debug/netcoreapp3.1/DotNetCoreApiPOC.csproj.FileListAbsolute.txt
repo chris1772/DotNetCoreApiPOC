@@ -13,3 +13,8 @@ C:\Users\rajn_\source\repos\DotNetCoreApiPOC\DotNetCoreApiPOC\bin\Debug\netcorea
 C:\Users\rajn_\source\repos\DotNetCoreApiPOC\DotNetCoreApiPOC\obj\Debug\netcoreapp3.1\DotNetCoreApiPOC.csproj.CoreCompileInputs.cache
 C:\Users\rajn_\source\repos\DotNetCoreApiPOC\DotNetCoreApiPOC\obj\Debug\netcoreapp3.1\DotNetCoreApiPOC.dll
 C:\Users\rajn_\source\repos\DotNetCoreApiPOC\DotNetCoreApiPOC\obj\Debug\netcoreapp3.1\DotNetCoreApiPOC.pdb
+C:\Users\rajn_\source\repos\DotNetCoreApiPOC\DotNetCoreApiPOC\bin\Debug\netcoreapp3.1\DotNetCoreApiPOC.exe
+C:\Users\rajn_\source\repos\DotNetCoreApiPOC\DotNetCoreApiPOC\bin\Debug\netcoreapp3.1\DotNetCoreApiPOC.runtimeconfig.json
+C:\Users\rajn_\source\repos\DotNetCoreApiPOC\DotNetCoreApiPOC\bin\Debug\netcoreapp3.1\DotNetCoreApiPOC.runtimeconfig.dev.json
+C:\Users\rajn_\source\repos\DotNetCoreApiPOC\DotNetCoreApiPOC\obj\Debug\netcoreapp3.1\DotNetCoreApiPOC.genruntimeconfig.cache
+C:\Users\rajn_\source\repos\DotNetCoreApiPOC\DotNetCoreApiPOC\obj\Debug\netcoreapp3.1\DotNetCoreApiPOC.MvcApplicationPartsAssemblyInfo.cache
