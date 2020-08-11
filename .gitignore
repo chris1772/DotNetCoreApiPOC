@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/slnx.sqlite
+/DotNetCoreApiPOC/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+/DotNetCoreApiPOC/obj/Release/netcoreapp3.1/DotNetCoreApiPOC.assets.cache
+/DotNetCoreApiPOC/obj/Release/netcoreapp3.1/DotNetCoreApiPOC.AssemblyInfoInputs.cache
+/.vs/DotNetCoreApiPOC/config/applicationhost.config
