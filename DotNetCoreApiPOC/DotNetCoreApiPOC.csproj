@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
-    <StartupObject>DotNetCoreApiPOC.Program</StartupObject>
+    <StartupObject></StartupObject>
     <OutputType>Exe</OutputType>
   </PropertyGroup>
 
