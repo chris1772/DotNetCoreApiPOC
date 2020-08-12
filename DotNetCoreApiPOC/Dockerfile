@@ -6,10 +6,10 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
 WORKDIR /src
-COPY ["DotNetCoreApiPOC/DotNetCoreApiPOC.csproj", "DotNetCoreApiPOC/"]
-RUN dotnet restore "DotNetCoreApiPOC/DotNetCoreApiPOC.csproj"
+COPY ["DotNetCoreApiPOC.csproj", "./"]
+RUN dotnet restore "DotNetCoreApiPOC.csproj"
 COPY . .
-WORKDIR "/src/DotNetCoreApiPOC"
+WORKDIR "/src/."
 RUN dotnet build "DotNetCoreApiPOC.csproj" -c Release -o /app/build
 
 FROM build AS publish
